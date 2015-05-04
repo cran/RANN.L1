@@ -1,0 +1,4 @@
+RANN.L1 2.5.0
+=============
+* initial release
+* identical to RANN package except for the metric used (Manhattan vs. Euclidean)
